@@ -1,0 +1,1 @@
+prompt ("How's the weather today?")
